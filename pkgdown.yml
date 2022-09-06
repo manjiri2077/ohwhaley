@@ -1,0 +1,9 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles: {}
+last_built: 2022-09-06T02:25Z
+urls:
+  reference: https://manjiri2077.github.io/ohwhaley/reference
+  article: https://manjiri2077.github.io/ohwhaley/articles
+
